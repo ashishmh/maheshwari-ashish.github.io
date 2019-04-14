@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'The whole of animate creation labours under the beautiful necessity of being beautiful.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'He vividly recalled those old doubts and perplexities, and it seemed to him that it was no mere chance that he recalled them now.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'The house seemed to be a veritable storehouse of marvels of antique art.'
+  'example4':
+      'Constant inquiries and a too great appearance of what must be at times merely acted interest, are harmful.'
 };
 
 function status(statusText) {
