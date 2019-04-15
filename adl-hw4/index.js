@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'The whole of animate creation labours under the beautiful necessity of being beautiful.',
+      'Arranged architecture is reasoned and artificial; produced by talent, governed by taste.',
   'example2':
-      'He vividly recalled those old doubts and perplexities, and it seemed to him that it was no mere chance that he recalled them now.',
+      'He can be lured into dens that when sober he would avoid, and there be robbed at leisure and with little risk.',
   'example3':
-      'The house seemed to be a veritable storehouse of marvels of antique art.',
+      'A neat brougham was opposite the door, the horses were breathing heavily as though they had come fast.',
   'example4':
-      'Constant inquiries and a too great appearance of what must be at times merely acted interest, are harmful.'
+      'Geological indications are that the area was much more active, insofar as thermal phenomena are concerned, then than now.'
 };
 
 function status(statusText) {
